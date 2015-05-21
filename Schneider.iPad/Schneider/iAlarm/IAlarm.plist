@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>old_command_trip</key>
+	<dict>
+		<key>1000</key>
+		<dict>
+			<key>event</key>
+			<string>Ir</string>
+			<key>description</key>
+			<string>Trip due to Long-time protection</string>
+		</dict>
+		<key>1001</key>
+		<dict>
+			<key>event</key>
+			<string>Isd</string>
+			<key>description</key>
+			<string>Trip due to Short-time protection</string>
+		</dict>
+		<key>1002</key>
+		<dict>
+			<key>event</key>
+			<string>Ii</string>
+			<key>description</key>
+			<string>Trip due to Instantaneous protection</string>
+		</dict>
+		<key>1003</key>
+		<dict>
+			<key>event</key>
+			<string>Ig</string>
+			<key>description</key>
+			<string>Trip due to Ground-fault protection</string>
+		</dict>
+		<key>1004</key>
+		<dict>
+			<key>event</key>
+			<string>IDelta n</string>
+			<key>description</key>
+			<string>Trip due to Earth-leakage protection</string>
+		</dict>
+		<key>1005</key>
+		<dict>
+			<key>event</key>
+			<string>I &gt;&gt;</string>
+			<key>description</key>
+			<string>Trip due to Integrated instantaneous protection</string>
+		</dict>
+		<key>1006</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reserved</string>
+		</dict>
+		<key>1007</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reserved</string>
+		</dict>
+		<key>1008</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Trip due to advanced protection</string>
+		</dict>
+		<key>1009</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Trip due to extended advanced protection</string>
+		</dict>
+		<key>1010</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reserved</string>
+		</dict>
+		<key>1011</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reserved</string>
+		</dict>
+		<key>1012</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reserved</string>
+		</dict>
+		<key>1013</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Long time protection alarm</string>
+		</dict>
+		<key>1014</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Ground-fault protection alarm</string>
+		</dict>
+		<key>1015</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Earth-leakage protection alarm</string>
+		</dict>
+		<key>1016</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Current unbalance</string>
+		</dict>
+		<key>1017</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Ia Max demand</string>
+		</dict>
+		<key>1018</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Ib Max demand</string>
+		</dict>
+		<key>1019</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Ic Max demand</string>
+		</dict>
+		<key>1020</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>IN Max demand</string>
+		</dict>
+		<key>1021</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Under voltage</string>
+		</dict>
+		<key>1022</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Over voltage</string>
+		</dict>
+		<key>1023</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Voltage unbalance</string>
+		</dict>
+		<key>1025</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reverse power</string>
+		</dict>
+		<key>1026</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Under frequency</string>
+		</dict>
+		<key>1027</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Over frequency</string>
+		</dict>
+		<key>1028</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Phase rotation</string>
+		</dict>
+		<key>1029</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Current load shedding</string>
+		</dict>
+		<key>1030</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Power load shedding</string>
+		</dict>
+		<key>1031</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reserved</string>
+		</dict>
+	</dict>
+	<key>new_command_trip</key>
+	<dict>
+		<key>1000</key>
+		<dict>
+			<key>event</key>
+			<string>Ir</string>
+			<key>description</key>
+			<string>Long time protection</string>
+		</dict>
+		<key>1001</key>
+		<dict>
+			<key>event</key>
+			<string>Isd</string>
+			<key>description</key>
+			<string>Short time protection</string>
+		</dict>
+		<key>1002</key>
+		<dict>
+			<key>event</key>
+			<string>Ii</string>
+			<key>description</key>
+			<string>Instantaneous protection</string>
+		</dict>
+		<key>1003</key>
+		<dict>
+			<key>event</key>
+			<string>Ig</string>
+			<key>description</key>
+			<string>Ground fault protection</string>
+		</dict>
+		<key>1004</key>
+		<dict>
+			<key>event</key>
+			<string>IDelta n</string>
+			<key>description</key>
+			<string>Earth leakage (Vigi) protection</string>
+		</dict>
+		<key>1010</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Integrated instantaneous protection</string>
+		</dict>
+		<key>1011</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>STOP (trip unit internal failure)</string>
+		</dict>
+		<key>1012</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Instantaneous with earth leakage(Vigi) protection</string>
+		</dict>
+		<key>1032</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Unbalance motor protecion</string>
+		</dict>
+		<key>1033</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Jam motor protection</string>
+		</dict>
+		<key>1034</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Underload motor protection</string>
+		</dict>
+		<key>1035</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Longstart montor protection</string>
+		</dict>
+		<key>1036</key>
+		<dict>
+			<key>event</key>
+			<string>Ap</string>
+			<key>description</key>
+			<string>Reflex tripping protection</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
